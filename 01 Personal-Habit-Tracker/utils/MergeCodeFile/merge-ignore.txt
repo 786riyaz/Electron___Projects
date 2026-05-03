@@ -1,0 +1,39 @@
+=============================================================
+Development Packages :::
+node_modules
+.git
+.next
+dist
+build
+.expo
+assets
+=============================================================
+Documentations ::: 
+000 Docs
+000 Notes
+000 UT
+README.md
+00 APK File
+=============================================================
+Uploaded Images and Other Images :::
+public
+storage
+favicon.ico
+=============================================================
+Development Files ::: 
+III_package.json
+package-lock.json
+=============================================================
+Merge Files ::: 
+utils
+=============================================================
+Generally Ignoring
+.gitignore
+III_eslint.config.mjs
+III_next-env.d.ts
+III_next.config.ts
+III_postcss.config.mjs
+III_tsconfig.json
+.env.local
+=============================================================
+utils
